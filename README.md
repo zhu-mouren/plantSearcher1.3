@@ -1,5 +1,6 @@
 # plantSearcher1.3
-new version
+new version of Soil nutrient analysis system
+
 
 运行plant_pro.py为主文件，主要负责GUI界面编程 pro_sql.py 为连接操作MySQL数据库的函数文件
 
